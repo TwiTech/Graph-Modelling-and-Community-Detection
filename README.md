@@ -1,4 +1,4 @@
-# Abstract
+# About the Study
 
 This research seeks to explore the discussions surrounding JAK inhibitors on Reddit by utilizing graph modeling and community detection techniques through the application of NetworkX and the  Louvain algorithm.
 
